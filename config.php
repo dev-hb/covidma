@@ -8,7 +8,7 @@ error_reporting(E_ALL);
 
 define("HOSTNAME", "localhost");
 define("USERNAME", "root");
-define("PASSWORD", "hba7222000");
+define("PASSWORD", "");
 define("DBNAME", "covidma");
 
 // Global MySQL connection

@@ -12,7 +12,7 @@
 
         </br></br>
         <div class="text-center">
-            Chaimaa SAHTOUTI, Copyright &copy;<script>document.write(new Date().getFullYear());</script>
+            CovidMA, Copyright &copy;<script>document.write(new Date().getFullYear());</script>
         All rights reserved
             <?php if(DC != '') : ?>
             | made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a
